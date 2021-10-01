@@ -32,3 +32,5 @@ sudo installer -pkg hello.pkg -target /
 
 * https://matthew-brett.github.io/docosx/flat_packages.html
 * http://bomutils.dyndns.org/tutorial.html
+* https://medium.com/swlh/the-easiest-way-to-build-macos-installer-for-your-application-34a11dd08744
+* https://vincent.bernat.ch/en/blog/2013-autoconf-osx-packaging
